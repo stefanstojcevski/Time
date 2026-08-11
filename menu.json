@@ -1,0 +1,1334 @@
+[
+  {
+    "name": {
+      "mk": "Еспресо мало",
+      "en": "Espresso Small"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 70,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Еспресо големо",
+      "en": "Espresso Large"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 70,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Макијато мало",
+      "en": "Macchiato Small"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 70,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Макијато големо",
+      "en": "Macchiato Large"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 80,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Макијато големо ладно",
+      "en": "Macchiato Large Iced"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 80,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Капучино",
+      "en": "Cappuccino"
+    },
+    "description": {
+      "mk": "Топло или ладно капучино.",
+      "en": "Hot or iced cappuccino."
+    },
+    "price": 100,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Нескафе",
+      "en": "Nescafé"
+    },
+    "description": {
+      "mk": "Топло или ладно нескафе.",
+      "en": "Hot or iced Nescafé."
+    },
+    "price": 100,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Салеп",
+      "en": "Salep"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 120,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Топло чоколадо",
+      "en": "Hot Chocolate"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 100,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Лате",
+      "en": "Latte"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 110,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Лате монино",
+      "en": "Latte Monino"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 140,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Какао милк",
+      "en": "Cocoa Milk"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 80,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Чај",
+      "en": "Tea"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 70,
+    "category": "Coffee"
+  },
+  {
+    "name": {
+      "mk": "Кока Кола / Кола Зеро 0.25",
+      "en": "Coca-Cola / Coke Zero 0.25"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 100,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Газоза 0.25",
+      "en": "Gazoza 0.25"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 100,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Спрајт 0.25",
+      "en": "Sprite 0.25"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 100,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Швепс 0.25",
+      "en": "Schweppes 0.25"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 100,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Некст сок 0.2",
+      "en": "Next Juice 0.2"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 100,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Раух сок 0.2",
+      "en": "Rauh Juice 0.2"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 110,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Роса 0.33",
+      "en": "Rosa Water 0.33"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 80,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Ладен чај 0.25",
+      "en": "Iced Tea 0.25"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 90,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Цедевита 0.25",
+      "en": "Cedevita 0.25"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 80,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Цеден сок",
+      "en": "Fresh Squeezed Juice"
+    },
+    "description": {
+      "mk": "Свежо цеден сезонски сок.",
+      "en": "Freshly squeezed seasonal juice."
+    },
+    "price": 160,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Мохито сода 0.33",
+      "en": "Mojito Soda 0.33"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 110,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Ред Бул 0.25",
+      "en": "Red Bull 0.25"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 200,
+    "category": "Soft"
+  },
+  {
+    "name": {
+      "mk": "Амстел 0.33",
+      "en": "Amstel 0.33"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 130,
+    "category": "Beer"
+  },
+  {
+    "name": {
+      "mk": "Златен Даб 0.33",
+      "en": "Zlaten Dab 0.33"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 120,
+    "category": "Beer"
+  },
+  {
+    "name": {
+      "mk": "Карлсберг 0.33",
+      "en": "Carlsberg 0.33"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 190,
+    "category": "Beer"
+  },
+  {
+    "name": {
+      "mk": "Корона 0.375",
+      "en": "Corona 0.375"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 210,
+    "category": "Beer"
+  },
+  {
+    "name": {
+      "mk": "Скопско 0.33",
+      "en": "Skopsko 0.33"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 120,
+    "category": "Beer"
+  },
+  {
+    "name": {
+      "mk": "Хајнекен 0.25",
+      "en": "Heineken 0.25"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 130,
+    "category": "Beer"
+  },
+  {
+    "name": {
+      "mk": "Туборг 0.33",
+      "en": "Tuborg 0.33"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 130,
+    "category": "Beer"
+  },
+  {
+    "name": {
+      "mk": "Аперол Шприц",
+      "en": "Aperol Spritz"
+    },
+    "description": {
+      "mk": "Аперол, просеко, сода, портокал.",
+      "en": "Aperol, prosecco, soda, orange."
+    },
+    "price": 200,
+    "category": "Cocktails"
+  },
+  {
+    "name": {
+      "mk": "Безалкохолен коктел",
+      "en": "Non-Alcoholic Cocktail"
+    },
+    "description": {
+      "mk": "Свежа мешавина без алкохол.",
+      "en": "Fresh alcohol-free blend."
+    },
+    "price": 150,
+    "category": "Cocktails"
+  },
+  {
+    "name": {
+      "mk": "Блу Лагун коктел",
+      "en": "Blue Lagoon Cocktail"
+    },
+    "description": {
+      "mk": "Водка, блу кирасао, лимонада.",
+      "en": "Vodka, blue curaçao, lemonade."
+    },
+    "price": 230,
+    "category": "Cocktails"
+  },
+  {
+    "name": {
+      "mk": "Водка микс",
+      "en": "Vodka Mix"
+    },
+    "description": {
+      "mk": "Водка со сок по избор.",
+      "en": "Vodka with juice of choice."
+    },
+    "price": 140,
+    "category": "Cocktails"
+  },
+  {
+    "name": {
+      "mk": "Џин микс",
+      "en": "Gin Mix"
+    },
+    "description": {
+      "mk": "Џин со тоник или сода.",
+      "en": "Gin with tonic or soda."
+    },
+    "price": 120,
+    "category": "Cocktails"
+  },
+  {
+    "name": {
+      "mk": "Тиме коктел",
+      "en": "Time Cocktail"
+    },
+    "description": {
+      "mk": "Специјален TIME сигнатурен коктел.",
+      "en": "TIME bar signature cocktail."
+    },
+    "price": 300,
+    "category": "Cocktails"
+  },
+  {
+    "name": {
+      "mk": "Куба Либре коктел",
+      "en": "Cuba Libre Cocktail"
+    },
+    "description": {
+      "mk": "Рум, кола, свеж лимон.",
+      "en": "Rum, cola, fresh lime."
+    },
+    "price": 220,
+    "category": "Cocktails"
+  },
+  {
+    "name": {
+      "mk": "Мохито коктел",
+      "en": "Mojito Cocktail"
+    },
+    "description": {
+      "mk": "Рум, мента, лимон, сода.",
+      "en": "Rum, mint, lime, soda."
+    },
+    "price": 240,
+    "category": "Cocktails"
+  },
+  {
+    "name": {
+      "mk": "Шот",
+      "en": "Shot"
+    },
+    "description": {
+      "mk": "Жесток пијалак по избор.",
+      "en": "Spirit shot of your choice."
+    },
+    "price": 100,
+    "category": "Cocktails"
+  },
+  {
+    "name": {
+      "mk": "Тга за Југ 0.187",
+      "en": "Tga za Jug 0.187"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 210,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Тга за Југ 0.75",
+      "en": "Tga za Jug 0.75"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 850,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Александрија 0.187",
+      "en": "Aleksandrija 0.187"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 220,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Александрија 0.75",
+      "en": "Aleksandrija 0.75"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 850,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Шардоне 0.187",
+      "en": "Chardonnay 0.187"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 450,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Шардоне 0.75",
+      "en": "Chardonnay 0.75"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 1800,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Темјаника 0.187",
+      "en": "Temjanika 0.187"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 210,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Темјаника 0.75",
+      "en": "Temjanika 0.75"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 800,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Мускат Темјаника 0.187",
+      "en": "Muscat Temjanika 0.187"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 450,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Мускат Темјаника 0.7",
+      "en": "Muscat Temjanika 0.7"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 1800,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Мерлот 0.187",
+      "en": "Merlot 0.187"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 450,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Мерлот 0.75",
+      "en": "Merlot 0.75"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 1800,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Вино Император 0.75",
+      "en": "Vino Imperator 0.75"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 3600,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Каберне Совињон 0.75",
+      "en": "Cabernet Sauvignon 0.75"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 1500,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Ана Марија Розе 0.7",
+      "en": "Ana Maria Rosé 0.7"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 1500,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Еликс Бовин 0.75",
+      "en": "Elix Bovin 0.75"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 4000,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Вранец 0.75",
+      "en": "Vranec 0.75"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 1400,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Дисан Барик 0.75",
+      "en": "Disan Barik 0.75"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 2900,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Моет 0.7",
+      "en": "Moët & Chandon 0.7"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 6000,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Моет Розе 0.7",
+      "en": "Moët & Chandon Rosé 0.7"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 9000,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Моет Ајс 0.7",
+      "en": "Moët & Chandon Ice 0.7"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 8000,
+    "category": "Wine"
+  },
+  {
+    "name": {
+      "mk": "Св. Трифун 0.04",
+      "en": "Sv. Trifun 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 130,
+    "category": "Rakija"
+  },
+  {
+    "name": {
+      "mk": "Сливовица 0.04",
+      "en": "Slivovitz 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 100,
+    "category": "Rakija"
+  },
+  {
+    "name": {
+      "mk": "Корлат Дуња 0.04",
+      "en": "Korlat Dunja 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 150,
+    "category": "Rakija"
+  },
+  {
+    "name": {
+      "mk": "Бовин Класик 0.04",
+      "en": "Bovin Klasik 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 90,
+    "category": "Rakija"
+  },
+  {
+    "name": {
+      "mk": "Гордон Амбер 0.04",
+      "en": "Gordon Amber 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 140,
+    "category": "Rakija"
+  },
+  {
+    "name": {
+      "mk": "Абсолут Водка 0.04",
+      "en": "Absolut Vodka 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 120,
+    "category": "Vodka"
+  },
+  {
+    "name": {
+      "mk": "Греј Гуус Водка 0.04",
+      "en": "Grey Goose Vodka 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 300,
+    "category": "Vodka"
+  },
+  {
+    "name": {
+      "mk": "Смирноф Ајс 0.275",
+      "en": "Smirnoff Ice 0.275"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 200,
+    "category": "Vodka"
+  },
+  {
+    "name": {
+      "mk": "Смирноф Ајс Расбери",
+      "en": "Smirnoff Ice Raspberry"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 200,
+    "category": "Vodka"
+  },
+  {
+    "name": {
+      "mk": "Балантајн 0.04",
+      "en": "Ballantine's 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 160,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "Ројал Салуте 0.04",
+      "en": "Royal Salute 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 1500,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "Димпл 0.04",
+      "en": "Dimple 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 300,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "Four Roses Бурбон 0.04",
+      "en": "Four Roses Bourbon 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 200,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "Пропер Твелв 0.04",
+      "en": "Proper Twelve 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 220,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "Чивас Регал 0.04",
+      "en": "Chivas Regal 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 270,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "J&B 0.04",
+      "en": "J&B 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 150,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "Џејмисон 0.04",
+      "en": "Jameson 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 160,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "Џек Даниелс 0.04",
+      "en": "Jack Daniel's 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 200,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "Џони Вокер Блек 0.04",
+      "en": "Johnnie Walker Black 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 220,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "Џони Вокер 0.04",
+      "en": "Johnnie Walker 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 160,
+    "category": "Whisky"
+  },
+  {
+    "name": {
+      "mk": "Гордон'с 0.04",
+      "en": "Gordon's 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 120,
+    "category": "Gin"
+  },
+  {
+    "name": {
+      "mk": "Гордон'с Пинк 0.04",
+      "en": "Gordon's Pink 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 130,
+    "category": "Gin"
+  },
+  {
+    "name": {
+      "mk": "Танкерај 0.04",
+      "en": "Tanqueray 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 200,
+    "category": "Gin"
+  },
+  {
+    "name": {
+      "mk": "Бомбај 0.04",
+      "en": "Bombay Sapphire 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 150,
+    "category": "Gin"
+  },
+  {
+    "name": {
+      "mk": "Хендрикс 0.04",
+      "en": "Hendrick's 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 250,
+    "category": "Gin"
+  },
+  {
+    "name": {
+      "mk": "Бифитер 0.04",
+      "en": "Beefeater 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 130,
+    "category": "Gin"
+  },
+  {
+    "name": {
+      "mk": "Плумари 0.2",
+      "en": "Plomari Ouzo 0.2"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 600,
+    "category": "Ouzo"
+  },
+  {
+    "name": {
+      "mk": "Плумари 0.04",
+      "en": "Plomari Ouzo 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 120,
+    "category": "Ouzo"
+  },
+  {
+    "name": {
+      "mk": "Бакарди 0.04",
+      "en": "Bacardi 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 140,
+    "category": "Rum"
+  },
+  {
+    "name": {
+      "mk": "Кептен Морган 0.04",
+      "en": "Captain Morgan 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 150,
+    "category": "Rum"
+  },
+  {
+    "name": {
+      "mk": "Бадел Рум 0.04",
+      "en": "Badel Rum 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 100,
+    "category": "Rum"
+  },
+  {
+    "name": {
+      "mk": "Бејлис 0.04",
+      "en": "Baileys 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 200,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Амарето 0.04",
+      "en": "Amaretto 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 130,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Малибу 0.04",
+      "en": "Malibu 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 150,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Калуа 0.04",
+      "en": "Kahlúa 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 130,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Кампари 0.04",
+      "en": "Campari 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 130,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Мартини 0.04",
+      "en": "Martini 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 110,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Јегермајстер 0.04",
+      "en": "Jägermeister 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 140,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Пелинковац 0.04",
+      "en": "Pelinkovac 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 110,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Пелинковац Винтер 0.04",
+      "en": "Pelinkovac Winter 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 120,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Арчерс 0.04",
+      "en": "Archers 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 90,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Мастика 0.04",
+      "en": "Mastika 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 90,
+    "category": "Liqueurs"
+  },
+  {
+    "name": {
+      "mk": "Хенеси 0.04",
+      "en": "Hennessy 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 250,
+    "category": "Brandy"
+  },
+  {
+    "name": {
+      "mk": "Шток 0.04",
+      "en": "Stock 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 130,
+    "category": "Brandy"
+  },
+  {
+    "name": {
+      "mk": "Бадел Бренди Коњак 0.04",
+      "en": "Badel Brandy Cognac 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 110,
+    "category": "Brandy"
+  },
+  {
+    "name": {
+      "mk": "Вињак Рубин 0.04",
+      "en": "Vinjak Rubin 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 160,
+    "category": "Brandy"
+  },
+  {
+    "name": {
+      "mk": "Азул Текила 0.04",
+      "en": "Azul Tequila 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 2500,
+    "category": "Tequila"
+  },
+  {
+    "name": {
+      "mk": "Родео Текила 0.04",
+      "en": "Rodeo Tequila 0.04"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 70,
+    "category": "Tequila"
+  },
+  {
+    "name": {
+      "mk": "Текила Сиера",
+      "en": "Sierra Tequila"
+    },
+    "description": {
+      "mk": "",
+      "en": ""
+    },
+    "price": 90,
+    "category": "Tequila"
+  }
+]
